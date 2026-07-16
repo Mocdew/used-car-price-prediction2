@@ -22,7 +22,7 @@ This project expects a file named `cars_24_combined.csv` in the project root, wi
 | Location    | Listing location                         |
 | Price       | Target — resale price                    |
 
-> The dataset isn't included in this repo. If you have a license/source to redistribute it, add it here and remove this note; otherwise, point users to where they can obtain it (e.g. Kaggle) and update the note above.
+
 
 ## Approach
 
